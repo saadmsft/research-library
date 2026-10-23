@@ -1,0 +1,22 @@
+{
+  "name": "research-library",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A static research library: Markdown papers in folders, built into a bound-book site.",
+  "scripts": {
+    "build": "node build.mjs",
+    "serve": "node serve.mjs",
+    "dev": "node build.mjs && node serve.mjs"
+  },
+  "type": "module",
+  "dependencies": {
+    "gray-matter": "^4.0.3",
+    "marked": "^15.0.12"
+  },
+  "devDependencies": {
+    "@fontsource-variable/archivo": "^5.3.0",
+    "@fontsource-variable/literata": "^5.3.0",
+    "@fontsource/amiri": "^5.3.0",
+    "@fontsource/noto-nastaliq-urdu": "^5.3.0"
+  }
+}

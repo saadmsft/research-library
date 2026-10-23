@@ -1,0 +1,128 @@
+{
+  "schemaVersion": 2,
+  "generatedAt": "2026-10-23T09:00:00.000Z",
+  "title": "Design System: Research Library",
+  "extensions": {
+    "colorMeta": {
+      "paper": { "role": "neutral", "displayName": "Rag Paper", "canonical": "oklch(97.6% 0.007 95)", "tonalRamp": ["oklch(15% 0.004 95)", "oklch(25% 0.006 95)", "oklch(35% 0.007 95)", "oklch(45% 0.007 95)", "oklch(55% 0.007 95)", "oklch(70% 0.006 95)", "oklch(85% 0.004 95)", "oklch(95% 0.001 95)"] },
+      "paper-slip": { "role": "neutral", "displayName": "Slip Paper", "canonical": "oklch(94.6% 0.01 95)", "tonalRamp": ["oklch(15% 0.006 95)", "oklch(25% 0.009 95)", "oklch(35% 0.01 95)", "oklch(45% 0.01 95)", "oklch(55% 0.01 95)", "oklch(70% 0.009 95)", "oklch(85% 0.005 95)", "oklch(95% 0.002 95)"] },
+      "paper-shade": { "role": "neutral", "displayName": "Paper Shade", "canonical": "oklch(91% 0.013 95)", "tonalRamp": ["oklch(15% 0.008 95)", "oklch(25% 0.012 95)", "oklch(35% 0.013 95)", "oklch(45% 0.013 95)", "oklch(55% 0.013 95)", "oklch(70% 0.012 95)", "oklch(85% 0.007 95)", "oklch(95% 0.002 95)"] },
+      "ink": { "role": "neutral", "displayName": "Blue-Black Ink", "canonical": "oklch(23% 0.02 265)", "tonalRamp": ["oklch(15% 0.012 265)", "oklch(25% 0.018 265)", "oklch(35% 0.02 265)", "oklch(45% 0.02 265)", "oklch(55% 0.02 265)", "oklch(70% 0.018 265)", "oklch(85% 0.01 265)", "oklch(95% 0.003 265)"] },
+      "ink-soft": { "role": "neutral", "displayName": "Soft Ink", "canonical": "oklch(43% 0.02 265)", "tonalRamp": ["oklch(15% 0.012 265)", "oklch(25% 0.018 265)", "oklch(35% 0.02 265)", "oklch(45% 0.02 265)", "oklch(55% 0.02 265)", "oklch(70% 0.018 265)", "oklch(85% 0.01 265)", "oklch(95% 0.003 265)"] },
+      "line": { "role": "neutral", "displayName": "Thread Line", "canonical": "oklch(86% 0.013 95)", "tonalRamp": ["oklch(15% 0.008 95)", "oklch(25% 0.012 95)", "oklch(35% 0.013 95)", "oklch(45% 0.013 95)", "oklch(55% 0.013 95)", "oklch(70% 0.012 95)", "oklch(85% 0.007 95)", "oklch(95% 0.002 95)"] },
+      "line-strong": { "role": "neutral", "displayName": "Strong Thread", "canonical": "oklch(70% 0.015 95)", "tonalRamp": ["oklch(15% 0.009 95)", "oklch(25% 0.014 95)", "oklch(35% 0.015 95)", "oklch(45% 0.015 95)", "oklch(55% 0.015 95)", "oklch(70% 0.014 95)", "oklch(85% 0.008 95)", "oklch(95% 0.002 95)"] },
+      "verified-teal": { "role": "status", "displayName": "Verified Teal", "canonical": "oklch(40% 0.09 190)", "tonalRamp": ["oklch(15% 0.054 190)", "oklch(25% 0.081 190)", "oklch(35% 0.09 190)", "oklch(45% 0.09 190)", "oklch(55% 0.09 190)", "oklch(70% 0.081 190)", "oklch(85% 0.045 190)", "oklch(95% 0.014 190)"] },
+      "unverified-madder": { "role": "status", "displayName": "Unverified Madder", "canonical": "oklch(47% 0.19 25)", "tonalRamp": ["oklch(15% 0.114 25)", "oklch(25% 0.171 25)", "oklch(35% 0.19 25)", "oklch(45% 0.19 25)", "oklch(55% 0.19 25)", "oklch(70% 0.171 25)", "oklch(85% 0.095 25)", "oklch(95% 0.029 25)"] },
+      "caution-umber": { "role": "status", "displayName": "Caution Umber", "canonical": "oklch(46% 0.11 65)", "tonalRamp": ["oklch(15% 0.066 65)", "oklch(25% 0.099 65)", "oklch(35% 0.11 65)", "oklch(45% 0.11 65)", "oklch(55% 0.11 65)", "oklch(70% 0.099 65)", "oklch(85% 0.055 65)", "oklch(95% 0.017 65)"] },
+      "cloth-indigo": { "role": "primary", "displayName": "Indigo Bookcloth", "canonical": "oklch(31% 0.09 268)", "tonalRamp": ["oklch(15% 0.054 268)", "oklch(25% 0.081 268)", "oklch(35% 0.09 268)", "oklch(45% 0.09 268)", "oklch(55% 0.09 268)", "oklch(70% 0.081 268)", "oklch(85% 0.045 268)", "oklch(95% 0.014 268)"] },
+      "cloth-madder": { "role": "primary", "displayName": "Madder Bookcloth", "canonical": "oklch(36% 0.125 18)", "tonalRamp": ["oklch(15% 0.075 18)", "oklch(25% 0.112 18)", "oklch(35% 0.125 18)", "oklch(45% 0.125 18)", "oklch(55% 0.125 18)", "oklch(70% 0.112 18)", "oklch(85% 0.063 18)", "oklch(95% 0.019 18)"] },
+      "cloth-bottle": { "role": "primary", "displayName": "Bottle-Green Bookcloth", "canonical": "oklch(32% 0.065 168)", "tonalRamp": ["oklch(15% 0.039 168)", "oklch(25% 0.058 168)", "oklch(35% 0.065 168)", "oklch(45% 0.065 168)", "oklch(55% 0.065 168)", "oklch(70% 0.058 168)", "oklch(85% 0.033 168)", "oklch(95% 0.01 168)"] },
+      "cloth-saffron": { "role": "primary", "displayName": "Saffron Bookcloth", "canonical": "oklch(77% 0.135 82)", "tonalRamp": ["oklch(15% 0.081 82)", "oklch(25% 0.122 82)", "oklch(35% 0.135 82)", "oklch(45% 0.135 82)", "oklch(55% 0.135 82)", "oklch(70% 0.122 82)", "oklch(85% 0.068 82)", "oklch(95% 0.02 82)"] },
+      "cloth-aubergine": { "role": "primary", "displayName": "Aubergine Bookcloth", "canonical": "oklch(30% 0.09 335)", "tonalRamp": ["oklch(15% 0.054 335)", "oklch(25% 0.081 335)", "oklch(35% 0.09 335)", "oklch(45% 0.09 335)", "oklch(55% 0.09 335)", "oklch(70% 0.081 335)", "oklch(85% 0.045 335)", "oklch(95% 0.014 335)"] },
+      "cloth-slate": { "role": "primary", "displayName": "Slate Bookcloth", "canonical": "oklch(40% 0.03 245)", "tonalRamp": ["oklch(15% 0.018 245)", "oklch(25% 0.027 245)", "oklch(35% 0.03 245)", "oklch(45% 0.03 245)", "oklch(55% 0.03 245)", "oklch(70% 0.027 245)", "oklch(85% 0.015 245)", "oklch(95% 0.005 245)"] }
+    },
+    "typographyMeta": {
+      "display": { "displayName": "Display", "purpose": "Home, search and not-found headings on paper. Light weight, tight tracking." },
+      "cover-title": { "displayName": "Cover title", "purpose": "The paper title on its cloth band, debossed." },
+      "headline": { "displayName": "Headline", "purpose": "Section headings inside a paper." },
+      "title": { "displayName": "Title", "purpose": "Subsection headings." },
+      "body": { "displayName": "Body", "purpose": "Reading text, old-style figures, 65 to 72 characters per line." },
+      "label": { "displayName": "Label", "purpose": "Navigation, buttons, chips, slip headings and diagram text, in Archivo." }
+    },
+    "shadows": [
+      { "name": "button-rest", "value": "0 1px 0 rgb(255 255 255 / 0.12) inset, 0 3px 8px -3px rgb(0 0 0 / 0.45)", "purpose": "Cloth buttons at rest." },
+      { "name": "button-hover", "value": "0 1px 0 rgb(255 255 255 / 0.14) inset, 0 6px 12px -4px rgb(0 0 0 / 0.45)", "purpose": "Cloth buttons on hover, with a 1px lift." },
+      { "name": "rail-edge", "value": "1px 0 0 var(--cloth-lo), 8px 0 18px -8px rgb(0 0 0 / 0.4)", "purpose": "The spine rail over the paper." },
+      { "name": "deboss", "value": "0 1px 0 rgb(255 255 255 / 0.1), 0 -1px 0 rgb(0 0 0 / 0.45)", "purpose": "Titles pressed into cloth. Lighter on saffron." }
+    ],
+    "motion": [
+      { "name": "ease-out", "value": "cubic-bezier(0.16, 1, 0.3, 1)", "purpose": "All transitions: lifts, underline growth, the skip link." },
+      { "name": "sew", "value": "1.6s cubic-bezier(0.16, 1, 0.3, 1) 0.15s both", "purpose": "The chain stitching itself down the rail on page load. Off under reduced motion." }
+    ],
+    "breakpoints": [
+      { "name": "narrow", "value": "640px" },
+      { "name": "contents-panel", "value": "1000px" },
+      { "name": "margin-sidenotes", "value": "1380px" }
+    ]
+  },
+  "components": [
+    {
+      "name": "Primary Button",
+      "kind": "button",
+      "refersTo": "button-primary",
+      "description": "Cloth-covered button with an inset stitch line. One per view.",
+      "html": "<button class=\"ds-btn\">Browse the shelf</button>",
+      "css": ".ds-btn { position: relative; min-height: 2.9rem; padding: 0.7rem 1.35rem; border: 0; border-radius: 4px; cursor: pointer; font: 600 0.95rem/1 Archivo, system-ui, sans-serif; letter-spacing: 0.01em; color: #efe9d6; background-color: oklch(31% 0.09 268); background-image: repeating-linear-gradient(0deg, rgb(255 255 255 / 0.05) 0 1px, transparent 1px 3px), repeating-linear-gradient(90deg, rgb(0 0 0 / 0.08) 0 1px, transparent 1px 3px); box-shadow: 0 1px 0 rgb(255 255 255 / 0.12) inset, 0 3px 8px -3px rgb(0 0 0 / 0.45); transition: background-color 0.18s, transform 0.18s cubic-bezier(0.16, 1, 0.3, 1), box-shadow 0.18s; } .ds-btn::after { content: ''; position: absolute; inset: 4px; border: 1.5px dashed rgb(239 233 214 / 0.62); border-radius: 2px; pointer-events: none; } .ds-btn:hover { background-color: oklch(37% 0.1 268); transform: translateY(-1px); box-shadow: 0 1px 0 rgb(255 255 255 / 0.14) inset, 0 6px 12px -4px rgb(0 0 0 / 0.45); } .ds-btn:active { transform: translateY(0); box-shadow: 0 1px 0 rgb(0 0 0 / 0.3) inset; } .ds-btn:focus-visible { outline: 2px solid #efe9d6; outline-offset: 3px; box-shadow: 0 0 0 5px oklch(97.6% 0.007 95); }"
+    },
+    {
+      "name": "Ghost Button",
+      "kind": "button",
+      "refersTo": "button-ghost",
+      "description": "Outline companion to the primary button, for the second action.",
+      "html": "<button class=\"ds-btn-ghost\">Search</button>",
+      "css": ".ds-btn-ghost { position: relative; min-height: 2.9rem; padding: 0.7rem 1.35rem; border: 1.5px solid oklch(23% 0.02 265); border-radius: 4px; background: transparent; color: oklch(23% 0.02 265); cursor: pointer; font: 600 0.95rem/1 Archivo, system-ui, sans-serif; transition: background-color 0.18s; } .ds-btn-ghost::after { content: ''; position: absolute; inset: 4px; border: 1.5px dashed rgb(31 33 45 / 0.4); border-radius: 2px; pointer-events: none; } .ds-btn-ghost:hover { background: oklch(94.6% 0.01 95); } .ds-btn-ghost:focus-visible { outline: 2px solid oklch(23% 0.02 265); outline-offset: 3px; }"
+    },
+    {
+      "name": "Navigation Link",
+      "kind": "nav",
+      "description": "Top-bar link with a dashed stitch underline that closes to solid on hover and for the current page.",
+      "html": "<nav class=\"ds-nav\"><a href=\"#\" aria-current=\"page\">Library</a><a href=\"#\">Search</a></nav>",
+      "css": ".ds-nav { display: flex; gap: 1.5rem; font: 600 0.92rem Archivo, system-ui, sans-serif; color: oklch(23% 0.02 265); } .ds-nav a { color: inherit; text-decoration: none; padding: 0.3rem 0 0.25rem; background: linear-gradient(90deg, currentColor 55%, transparent 0) 0 100% / 8px 1.5px repeat-x; } .ds-nav a:hover, .ds-nav a[aria-current] { background-image: linear-gradient(currentColor, currentColor); background-size: 100% 1.5px; } .ds-nav a:focus-visible { outline: 2px solid oklch(23% 0.02 265); outline-offset: 3px; }"
+    },
+    {
+      "name": "Status Chip",
+      "kind": "chip",
+      "description": "Claim status. Border style carries the status as well as colour: solid, dashed, double.",
+      "html": "<span class=\"ds-chip ds-chip-ok\">Verified</span> <span class=\"ds-chip ds-chip-q\">Unverified</span> <span class=\"ds-chip ds-chip-x\">Discarded</span>",
+      "css": ".ds-chip { display: inline-block; padding: 0.12rem 0.45rem; font: 700 0.72rem/1.2 Archivo, system-ui, sans-serif; letter-spacing: 0.02em; border: 1.5px solid currentColor; border-radius: 2px; } .ds-chip-ok { color: oklch(40% 0.09 190); } .ds-chip-q { color: oklch(47% 0.19 25); border-style: dashed; } .ds-chip-x { color: oklch(43% 0.02 265); border-style: double; border-width: 3px; padding: 0.12rem 0.4rem; }"
+    },
+    {
+      "name": "Slip",
+      "kind": "card",
+      "refersTo": "slip",
+      "description": "A tipped-in paper note with a dashed stitched border. Marks a verified, unverified, discarded or caution passage. Never nested.",
+      "html": "<aside class=\"ds-slip\"><p class=\"ds-slip-head\">Unverified</p><p>Reported in secondary sources; not found in the primary text.</p></aside>",
+      "css": ".ds-slip { margin: 0; padding: 0.95rem 1.15rem 0.35rem; background: oklch(94.6% 0.01 95); border: 1.5px dashed oklch(47% 0.19 25); border-radius: 3px; font: 1rem/1.55 Literata, Georgia, serif; color: oklch(23% 0.02 265); } .ds-slip-head { margin: 0 0 0.5rem; font: 700 0.9rem/1.2 Archivo, system-ui, sans-serif; color: oklch(47% 0.19 25); } .ds-slip p:last-child { margin-bottom: 0.6em; }"
+    },
+    {
+      "name": "Volume",
+      "kind": "custom",
+      "description": "A collection as a cloth-bound book with a sewn spine. Its height follows the number of papers.",
+      "html": "<a class=\"ds-vol\" href=\"#\"><span class=\"ds-vol-spine\"></span><span class=\"ds-vol-title\">Sufi practice</span><span class=\"ds-vol-count\">2 papers</span></a>",
+      "css": ".ds-vol { position: relative; display: block; width: 216px; height: 336px; border-radius: 4px 8px 8px 4px; color: #efe9d6; text-decoration: none; background-color: oklch(31% 0.09 268); background-image: repeating-linear-gradient(0deg, rgb(255 255 255 / 0.05) 0 1px, transparent 1px 3px), repeating-linear-gradient(90deg, rgb(0 0 0 / 0.08) 0 1px, transparent 1px 3px); box-shadow: 0 1px 0 rgb(255 255 255 / 0.12) inset, 0 10px 18px -8px rgb(0 0 0 / 0.5); transition: transform 0.2s cubic-bezier(0.16, 1, 0.3, 1); } .ds-vol:hover { transform: translateY(-6px); } .ds-vol:focus-visible { outline: 2px solid oklch(23% 0.02 265); outline-offset: 4px; } .ds-vol-spine { position: absolute; inset: 0 auto 0 0; width: 40px; background: oklch(23% 0.07 268); border-radius: 4px 0 0 4px; background-image: radial-gradient(ellipse 5px 9px at 20px 12px, #efe9d6 60%, transparent 62%); background-size: 40px 24px; } .ds-vol-title { position: absolute; left: 58px; top: 24px; right: 16px; font: 650 1.45rem/1.12 Literata, Georgia, serif; text-shadow: 0 1px 0 rgb(255 255 255 / 0.1), 0 -1px 0 rgb(0 0 0 / 0.45); } .ds-vol-count { position: absolute; left: 58px; bottom: 18px; font: 600 0.8rem Archivo, system-ui, sans-serif; }"
+    }
+  ],
+  "narrative": {
+    "northStar": "The Exposed Spine",
+    "overview": "A research library read as a book whose binding is left showing. Collections are cloth-bound volumes, papers are signatures sewn into them, and one linen chain-stitch runs down every page as spine, progress and contents at once. The page is quiet rag paper with dark ink; all colour and texture belong to the cloth. The one authored motion is the chain sewing itself shut, and it is off under reduced motion.",
+    "keyCharacteristics": [
+      "One chain-stitch spine at the left edge, doubling as progress and navigation.",
+      "Flat rag-paper reading surface; depth lives on cloth.",
+      "A bookcloth colour per collection, inherited by its papers.",
+      "Claims carry a mark that never relies on colour alone.",
+      "Dashed stitch lines stand in for borders around anything tipped in."
+    ],
+    "rules": [
+      { "name": "The One Cloth Rule", "body": "A page shows one cloth. A paper takes its collection's cloth; no page mixes two.", "section": "colors" },
+      { "name": "The Colour-Is-Never-Alone Rule", "body": "Every status has a second cue: dotted underline for verified, wavy underline with a question mark for unverified, light cross-stitch for discarded; chips repeat it with solid, dashed and double borders.", "section": "colors" },
+      { "name": "The Apparatus Rule", "body": "Argument is serif; apparatus (navigation, chips, labels, diagram text, slip headings) is Archivo. Never set a paragraph in the sans.", "section": "typography" },
+      { "name": "The Flat Paper Rule", "body": "A shadow means this is cloth. Never put a drop shadow on anything that is paper.", "section": "elevation" }
+    ],
+    "dos": [
+      "Do let cloth carry colour and depth, and keep paper flat.",
+      "Do pair every status colour with a second cue.",
+      "Do use dashed 1.5px lines for anything tipped in, and the 24px pitch for anything stitched.",
+      "Do keep one authored motion and respect prefers-reduced-motion.",
+      "Do let wide figures and tables scroll in their own container instead of shrinking text.",
+      "Do label demonstration data as synthetic."
+    ],
+    "donts": [
+      "Don't add shadows, gradients or textures to paper.",
+      "Don't mix two cloths on one page, or tint paper with the cloth colour.",
+      "Don't set body text or paragraphs in the sans.",
+      "Don't use colour alone to say a claim is verified, unverified or discarded.",
+      "Don't nest slips or wrap content in generic cards.",
+      "Don't add wood grain, page curls or other skeuomorphic props; every texture must be thread or weave."
+    ]
+  }
+}
